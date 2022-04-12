@@ -1,4 +1,0 @@
-INDEX VERSION 1.131+C:\Users\Miguel\Desktop\MIGUEL\DESARROLLO DE APLICACIONES FULL STACK JAVA TRAINEE\MODULO 4\punto_venta\.metadata\.plugins\org.eclipse.jdt.core
-2604055215.index
-1865797976.index
-2673097533.index
